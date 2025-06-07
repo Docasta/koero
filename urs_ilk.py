@@ -1,5 +1,8 @@
 from ursina import *
 from random import randint
+
+# buraya yorumu Kerem ekledi.
+
 try:
     app = Ursina()
     kup = Entity(model='cube', color=color.red, scale=1)
